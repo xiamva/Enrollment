@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26477180583",
+    "project_id": "enrollment-1e885",
+    "storage_bucket": "enrollment-1e885.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26477180583:android:1553812adeeedc4c348d82",
+        "android_client_info": {
+          "package_name": "com.example.enrollment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfbhoiKYJT96rmHXK35zv0LLo_nHuQ2Ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
